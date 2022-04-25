@@ -231,7 +231,7 @@ header {
   grid-area: box1;
   height: 256px;
   width: 256px;
-  background-image: url(/images/Rectangle\ 25.png);
+  background-image: url(../images/Rectangle\ 25.png);
   font-size: 18px;
 
 }
@@ -241,13 +241,13 @@ header {
   height: 256px;
   width: 256px;
   font-size: 18px;
-  background-image: url(/images/Rectangle\ 44.png);
+  background-image: url(../images/Rectangle\ 44.png);
 }
 
 .box3 {
   grid-area: box3;
   font-size: 24px;
-  background-image: url(/images/Rectangle\ 34.png);
+  background-image: url(../images/Rectangle\ 34.png);
 }
 
 .box4 {
@@ -255,7 +255,7 @@ header {
   height: 256px;
   width: 256px;
   font-size: 18px;
-  background-image: url(/images/Rectangle\ 63.png);
+  background-image: url(../images/Rectangle\ 63.png);
 }
 
 .box5 {
@@ -263,13 +263,13 @@ header {
   height: 256px;
   width: 256px;
   font-size: 18px;
-  background-image: url(/images/Rectangle\ 64.png);
+  background-image: url(../images/Rectangle\ 64.png);
 }
 
 .box6 {
   grid-area: box6;
   font-size: 24px;
-  background-image: url(/images/Rectangle\ 69.png);
+  background-image: url(../images/Rectangle\ 69.png);
 }
 
 .box7 {
@@ -277,7 +277,7 @@ header {
   height: 256px;
   width: 256px;
   font-size: 18px;
-  background-image: url(/images/Rectangle\ 65.png);
+  background-image: url(../images/Rectangle\ 65.png);
 }
 
 .box8 {
@@ -285,7 +285,7 @@ header {
   height: 256px;
   width: 256px;
   font-size: 18px;
-  background-image: url(/images/Rectangle\ 67.png);
+  background-image: url(../images/Rectangle\ 67.png);
 }
 
 .box9 {
@@ -293,7 +293,7 @@ header {
   height: 256px;
   width: 256px;
   font-size: 18px;
-  background-image: url(/images/Rectangle\ 66.png);
+  background-image: url(../images/Rectangle\ 66.png);
 }
 
 .box10 {
@@ -301,7 +301,7 @@ header {
   height: 256px;
   width: 256px;
   font-size: 18px;
-  background-image: url(/images/Rectangle\ 68.png);
+  background-image: url(../images/Rectangle\ 68.png);
 }
 
 /* ------------------------------- */
@@ -585,17 +585,19 @@ header {
   align-items: center;
 }
 
-.form__link-s{
+.form__link-s {
   text-decoration: underline;
-  
+
 }
-.form__chkbx{
+
+.form__chkbx {
   height: 20px;
   width: 20px;
   transform: translateY(4px);
   margin-right: 10px;
-  
+
 }
+
 /* ------------------------------- */
 .container__footer {
   background-color: #000;
